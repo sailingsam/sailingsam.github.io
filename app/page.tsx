@@ -134,7 +134,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            I'm a software engineer with a passion for building things.
+            I'm a software engineer. I code. I build. I sail.
           </p>
         </div>
         <div className="flex items-center justify-start space-x-3 mt-2">
