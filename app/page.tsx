@@ -86,7 +86,7 @@ function ProjectImage({ src, alt }: ProjectImageProps) {
   )
 }
 
-export function MagneticSocialLink({
+function MagneticSocialLink({
   children,
   link,
 }: {
