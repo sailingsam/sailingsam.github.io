@@ -41,6 +41,7 @@ export const PROJECTS: Project[] = [
     name: 'ProjeXBio',
     description: 'Developed a scalable REST API using NestJS, PostgreSQL, and Prisma ORM for a college project showcase platform.',
     link: 'https://github.com/projexbio',
+    src: '/projects/nestjs-1.webp',
     id: 'project2',
   },
   {
